@@ -14,12 +14,16 @@ python3 rest_api.py band_numer_in_discogs
 ## Example
 
 Input:
+```bash
 python3 rest_api.py 359282
+```
 
 Output:
+```bash
 359282 is Budka Suflera . According to Discogs, it's players are/were [['Krzysztof Cugowski', 516821], ['Krzysztof Mandziara', 543450]] who also played in band: Cross (6) with id: 1435
 365
 359282 is Budka Suflera . According to Discogs, it's players are/were [['Andrzej Sidło', 1005147], ['Romuald Czystaw', 1005163]] who also played in band: Partita with id: 952543
 359282 is Budka Suflera . According to Discogs, it's players are/were [['Marek Stefankiewicz', 532854], ['Mieczysław Jurecki', 702387]] who also played in band: Perfect (7) with id: 66
 9348
 359282 is Budka Suflera . According to Discogs, it's players are/were [['Tomasz Zeliszewski', 516820], ['Mieczysław Jurecki', 702387]] who also played in band: Wieko with id: 4751291
+```
